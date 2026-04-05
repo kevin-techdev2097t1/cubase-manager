@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/kevin-techdev2097t1/cubase-manager?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/kevin-techdev2097t1/cubase-manager?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.2-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/kevin-techdev2097t1/cubase-manager?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/kevin-techdev2097t1/cubase-manager?style=flat-square)
 
 Precise pedal control for Cubase transport, tap tempo, and live performance
 
